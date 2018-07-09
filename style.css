@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+header {
+	background: url('file:///home/vainaweb-cpx/Documentos/Gabrielaa/dubai.jpg') no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    background-color:#EDEDED;
+    height: 40px;
+    flex-direction: row;
+    display: flex;	
+	justify-content: center;
+	flex-wrap: nowrap;
+	position: relative;
+}
+
+ul {
+	list-style: none;
+
+}
+
+li {
+	text-decoration: none;
+	margin: 13px;
+}
